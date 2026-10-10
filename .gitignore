@@ -1,0 +1,7 @@
+tools/
+synthetic/frames/
+synthetic/gray/
+synthetic/frames.lst
+synthetic/results/raw/*.log
+__pycache__/
+*.pyc

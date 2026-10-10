@@ -1,0 +1,571 @@
+axis,value,library,frames,read,wrong
+module px,1.2,dmr (ours),12,8,0
+module px,1.2,zxing-cpp,12,0,0
+module px,1.2,ZXing (Java),12,0,0
+module px,1.2,libdmtx,12,0,0
+module px,1.2,"dmr, Settings::single()",12,8,0
+module px,1.4,dmr (ours),12,12,0
+module px,1.4,zxing-cpp,12,0,0
+module px,1.4,ZXing (Java),12,0,0
+module px,1.4,libdmtx,12,1,0
+module px,1.4,"dmr, Settings::single()",12,12,0
+module px,1.6,dmr (ours),12,12,0
+module px,1.6,zxing-cpp,12,2,0
+module px,1.6,ZXing (Java),12,0,0
+module px,1.6,libdmtx,12,3,0
+module px,1.6,"dmr, Settings::single()",12,12,0
+module px,1.8,dmr (ours),12,12,0
+module px,1.8,zxing-cpp,12,6,0
+module px,1.8,ZXing (Java),12,0,0
+module px,1.8,libdmtx,12,4,0
+module px,1.8,"dmr, Settings::single()",12,12,0
+module px,2.0,dmr (ours),12,12,0
+module px,2.0,zxing-cpp,12,12,0
+module px,2.0,ZXing (Java),12,0,0
+module px,2.0,libdmtx,12,7,0
+module px,2.0,"dmr, Settings::single()",12,12,0
+module px,2.2,dmr (ours),12,12,0
+module px,2.2,zxing-cpp,12,11,0
+module px,2.2,ZXing (Java),12,0,0
+module px,2.2,libdmtx,12,9,0
+module px,2.2,"dmr, Settings::single()",12,12,0
+module px,2.5,dmr (ours),12,12,0
+module px,2.5,zxing-cpp,12,12,0
+module px,2.5,ZXing (Java),12,0,0
+module px,2.5,libdmtx,12,11,0
+module px,2.5,"dmr, Settings::single()",12,12,0
+module px,3.0,dmr (ours),12,12,0
+module px,3.0,zxing-cpp,12,12,0
+module px,3.0,ZXing (Java),12,0,0
+module px,3.0,libdmtx,12,11,0
+module px,3.0,"dmr, Settings::single()",12,12,0
+module px,4.0,dmr (ours),12,12,0
+module px,4.0,zxing-cpp,12,12,0
+module px,4.0,ZXing (Java),12,1,0
+module px,4.0,libdmtx,12,12,0
+module px,4.0,"dmr, Settings::single()",12,12,0
+module px,6.0,dmr (ours),12,12,0
+module px,6.0,zxing-cpp,12,12,0
+module px,6.0,ZXing (Java),12,0,0
+module px,6.0,libdmtx,12,12,0
+module px,6.0,"dmr, Settings::single()",12,12,0
+rotation deg,0,dmr (ours),12,12,0
+rotation deg,0,zxing-cpp,12,12,0
+rotation deg,0,ZXing (Java),12,0,0
+rotation deg,0,libdmtx,12,11,0
+rotation deg,0,"dmr, Settings::single()",12,12,0
+rotation deg,5,dmr (ours),12,12,0
+rotation deg,5,zxing-cpp,12,12,0
+rotation deg,5,ZXing (Java),12,1,0
+rotation deg,5,libdmtx,12,11,0
+rotation deg,5,"dmr, Settings::single()",12,12,0
+rotation deg,10,dmr (ours),12,12,0
+rotation deg,10,zxing-cpp,12,12,0
+rotation deg,10,ZXing (Java),12,1,0
+rotation deg,10,libdmtx,12,12,0
+rotation deg,10,"dmr, Settings::single()",12,12,0
+rotation deg,15,dmr (ours),12,12,0
+rotation deg,15,zxing-cpp,12,12,0
+rotation deg,15,ZXing (Java),12,0,0
+rotation deg,15,libdmtx,12,11,0
+rotation deg,15,"dmr, Settings::single()",12,12,0
+rotation deg,20,dmr (ours),12,12,0
+rotation deg,20,zxing-cpp,12,11,0
+rotation deg,20,ZXing (Java),12,0,0
+rotation deg,20,libdmtx,12,11,0
+rotation deg,20,"dmr, Settings::single()",12,12,0
+rotation deg,25,dmr (ours),12,12,0
+rotation deg,25,zxing-cpp,12,9,0
+rotation deg,25,ZXing (Java),12,0,0
+rotation deg,25,libdmtx,12,12,0
+rotation deg,25,"dmr, Settings::single()",12,12,0
+rotation deg,30,dmr (ours),12,12,0
+rotation deg,30,zxing-cpp,12,12,0
+rotation deg,30,ZXing (Java),12,0,0
+rotation deg,30,libdmtx,12,11,0
+rotation deg,30,"dmr, Settings::single()",12,12,0
+rotation deg,35,dmr (ours),12,12,0
+rotation deg,35,zxing-cpp,12,10,0
+rotation deg,35,ZXing (Java),12,0,0
+rotation deg,35,libdmtx,12,10,0
+rotation deg,35,"dmr, Settings::single()",12,12,0
+rotation deg,40,dmr (ours),12,12,0
+rotation deg,40,zxing-cpp,12,12,0
+rotation deg,40,ZXing (Java),12,0,0
+rotation deg,40,libdmtx,12,9,0
+rotation deg,40,"dmr, Settings::single()",12,12,0
+rotation deg,45,dmr (ours),12,12,0
+rotation deg,45,zxing-cpp,12,12,0
+rotation deg,45,ZXing (Java),12,0,0
+rotation deg,45,libdmtx,12,7,0
+rotation deg,45,"dmr, Settings::single()",12,12,0
+defocus sigma px,0,dmr (ours),12,12,0
+defocus sigma px,0,zxing-cpp,12,12,0
+defocus sigma px,0,ZXing (Java),12,0,0
+defocus sigma px,0,libdmtx,12,12,0
+defocus sigma px,0,"dmr, Settings::single()",12,12,0
+defocus sigma px,0.5,dmr (ours),12,12,0
+defocus sigma px,0.5,zxing-cpp,12,12,0
+defocus sigma px,0.5,ZXing (Java),12,1,0
+defocus sigma px,0.5,libdmtx,12,12,0
+defocus sigma px,0.5,"dmr, Settings::single()",12,12,0
+defocus sigma px,0.8,dmr (ours),12,12,0
+defocus sigma px,0.8,zxing-cpp,12,12,0
+defocus sigma px,0.8,ZXing (Java),12,1,0
+defocus sigma px,0.8,libdmtx,12,11,0
+defocus sigma px,0.8,"dmr, Settings::single()",12,12,0
+defocus sigma px,1.0,dmr (ours),12,12,0
+defocus sigma px,1.0,zxing-cpp,12,12,0
+defocus sigma px,1.0,ZXing (Java),12,0,0
+defocus sigma px,1.0,libdmtx,12,12,0
+defocus sigma px,1.0,"dmr, Settings::single()",12,12,0
+defocus sigma px,1.2,dmr (ours),12,12,0
+defocus sigma px,1.2,zxing-cpp,12,11,0
+defocus sigma px,1.2,ZXing (Java),12,3,0
+defocus sigma px,1.2,libdmtx,12,12,0
+defocus sigma px,1.2,"dmr, Settings::single()",12,12,0
+defocus sigma px,1.5,dmr (ours),12,12,0
+defocus sigma px,1.5,zxing-cpp,12,12,0
+defocus sigma px,1.5,ZXing (Java),12,1,0
+defocus sigma px,1.5,libdmtx,12,10,0
+defocus sigma px,1.5,"dmr, Settings::single()",12,12,0
+defocus sigma px,1.8,dmr (ours),12,12,0
+defocus sigma px,1.8,zxing-cpp,12,9,0
+defocus sigma px,1.8,ZXing (Java),12,0,0
+defocus sigma px,1.8,libdmtx,12,8,0
+defocus sigma px,1.8,"dmr, Settings::single()",12,12,0
+defocus sigma px,2.2,dmr (ours),12,3,0
+defocus sigma px,2.2,zxing-cpp,12,0,0
+defocus sigma px,2.2,ZXing (Java),12,0,0
+defocus sigma px,2.2,libdmtx,12,0,0
+defocus sigma px,2.2,"dmr, Settings::single()",12,3,0
+defocus sigma px,2.6,dmr (ours),12,0,0
+defocus sigma px,2.6,zxing-cpp,12,0,0
+defocus sigma px,2.6,ZXing (Java),12,0,0
+defocus sigma px,2.6,libdmtx,12,0,0
+defocus sigma px,2.6,"dmr, Settings::single()",12,0,0
+defocus sigma px,3.0,dmr (ours),12,0,0
+defocus sigma px,3.0,zxing-cpp,12,0,0
+defocus sigma px,3.0,ZXing (Java),12,0,0
+defocus sigma px,3.0,libdmtx,12,0,0
+defocus sigma px,3.0,"dmr, Settings::single()",12,0,0
+motion blur px,0,dmr (ours),12,12,0
+motion blur px,0,zxing-cpp,12,12,0
+motion blur px,0,ZXing (Java),12,1,0
+motion blur px,0,libdmtx,12,12,0
+motion blur px,0,"dmr, Settings::single()",12,12,0
+motion blur px,2,dmr (ours),12,12,0
+motion blur px,2,zxing-cpp,12,12,0
+motion blur px,2,ZXing (Java),12,1,0
+motion blur px,2,libdmtx,12,12,0
+motion blur px,2,"dmr, Settings::single()",12,12,0
+motion blur px,3,dmr (ours),12,12,0
+motion blur px,3,zxing-cpp,12,12,0
+motion blur px,3,ZXing (Java),12,1,0
+motion blur px,3,libdmtx,12,12,0
+motion blur px,3,"dmr, Settings::single()",12,12,0
+motion blur px,4,dmr (ours),12,12,0
+motion blur px,4,zxing-cpp,12,12,0
+motion blur px,4,ZXing (Java),12,0,0
+motion blur px,4,libdmtx,12,12,0
+motion blur px,4,"dmr, Settings::single()",12,12,0
+motion blur px,5,dmr (ours),12,12,0
+motion blur px,5,zxing-cpp,12,10,0
+motion blur px,5,ZXing (Java),12,0,0
+motion blur px,5,libdmtx,12,11,0
+motion blur px,5,"dmr, Settings::single()",12,12,0
+motion blur px,6,dmr (ours),12,12,0
+motion blur px,6,zxing-cpp,12,11,0
+motion blur px,6,ZXing (Java),12,1,0
+motion blur px,6,libdmtx,12,4,0
+motion blur px,6,"dmr, Settings::single()",12,12,0
+motion blur px,8,dmr (ours),12,2,0
+motion blur px,8,zxing-cpp,12,0,0
+motion blur px,8,ZXing (Java),12,0,0
+motion blur px,8,libdmtx,12,0,0
+motion blur px,8,"dmr, Settings::single()",12,2,0
+motion blur px,10,dmr (ours),12,0,0
+motion blur px,10,zxing-cpp,12,0,0
+motion blur px,10,ZXing (Java),12,0,0
+motion blur px,10,libdmtx,12,0,0
+motion blur px,10,"dmr, Settings::single()",12,0,0
+noise sigma,0,dmr (ours),12,12,0
+noise sigma,0,zxing-cpp,12,12,0
+noise sigma,0,ZXing (Java),12,2,0
+noise sigma,0,libdmtx,12,12,0
+noise sigma,0,"dmr, Settings::single()",12,12,0
+noise sigma,10,dmr (ours),12,12,0
+noise sigma,10,zxing-cpp,12,12,0
+noise sigma,10,ZXing (Java),12,1,0
+noise sigma,10,libdmtx,12,12,0
+noise sigma,10,"dmr, Settings::single()",12,12,0
+noise sigma,20,dmr (ours),12,12,0
+noise sigma,20,zxing-cpp,12,12,0
+noise sigma,20,ZXing (Java),12,0,0
+noise sigma,20,libdmtx,12,10,0
+noise sigma,20,"dmr, Settings::single()",12,12,0
+noise sigma,30,dmr (ours),12,12,0
+noise sigma,30,zxing-cpp,12,11,0
+noise sigma,30,ZXing (Java),12,0,0
+noise sigma,30,libdmtx,12,12,0
+noise sigma,30,"dmr, Settings::single()",12,12,0
+noise sigma,45,dmr (ours),12,9,0
+noise sigma,45,zxing-cpp,12,7,0
+noise sigma,45,ZXing (Java),12,0,0
+noise sigma,45,libdmtx,12,5,0
+noise sigma,45,"dmr, Settings::single()",12,11,0
+noise sigma,60,dmr (ours),12,3,0
+noise sigma,60,zxing-cpp,12,0,0
+noise sigma,60,ZXing (Java),12,0,0
+noise sigma,60,libdmtx,12,6,0
+noise sigma,60,"dmr, Settings::single()",12,6,0
+noise sigma,80,dmr (ours),12,0,0
+noise sigma,80,zxing-cpp,12,0,0
+noise sigma,80,ZXing (Java),12,0,0
+noise sigma,80,libdmtx,12,0,0
+noise sigma,80,"dmr, Settings::single()",12,0,0
+noise sigma,100,dmr (ours),12,0,0
+noise sigma,100,zxing-cpp,12,0,0
+noise sigma,100,ZXing (Java),12,0,0
+noise sigma,100,libdmtx,12,0,0
+noise sigma,100,"dmr, Settings::single()",12,0,0
+print contrast,0.85,dmr (ours),12,12,0
+print contrast,0.85,zxing-cpp,12,12,0
+print contrast,0.85,ZXing (Java),12,0,0
+print contrast,0.85,libdmtx,12,12,0
+print contrast,0.85,"dmr, Settings::single()",12,12,0
+print contrast,0.5,dmr (ours),12,12,0
+print contrast,0.5,zxing-cpp,12,11,0
+print contrast,0.5,ZXing (Java),12,1,0
+print contrast,0.5,libdmtx,12,12,0
+print contrast,0.5,"dmr, Settings::single()",12,12,0
+print contrast,0.3,dmr (ours),12,12,0
+print contrast,0.3,zxing-cpp,12,12,0
+print contrast,0.3,ZXing (Java),12,1,0
+print contrast,0.3,libdmtx,12,12,0
+print contrast,0.3,"dmr, Settings::single()",12,12,0
+print contrast,0.2,dmr (ours),12,12,0
+print contrast,0.2,zxing-cpp,12,12,0
+print contrast,0.2,ZXing (Java),12,0,0
+print contrast,0.2,libdmtx,12,11,0
+print contrast,0.2,"dmr, Settings::single()",12,12,0
+print contrast,0.12,dmr (ours),12,12,0
+print contrast,0.12,zxing-cpp,12,12,0
+print contrast,0.12,ZXing (Java),12,0,0
+print contrast,0.12,libdmtx,12,12,0
+print contrast,0.12,"dmr, Settings::single()",12,12,0
+print contrast,0.08,dmr (ours),12,12,0
+print contrast,0.08,zxing-cpp,12,7,0
+print contrast,0.08,ZXing (Java),12,0,0
+print contrast,0.08,libdmtx,12,7,0
+print contrast,0.08,"dmr, Settings::single()",12,12,0
+print contrast,0.05,dmr (ours),12,11,0
+print contrast,0.05,zxing-cpp,12,0,0
+print contrast,0.05,ZXing (Java),12,0,0
+print contrast,0.05,libdmtx,12,0,0
+print contrast,0.05,"dmr, Settings::single()",12,12,0
+jpeg quality,95,dmr (ours),12,12,0
+jpeg quality,95,zxing-cpp,12,12,0
+jpeg quality,95,ZXing (Java),12,0,0
+jpeg quality,95,libdmtx,12,12,0
+jpeg quality,95,"dmr, Settings::single()",12,12,0
+jpeg quality,75,dmr (ours),12,12,0
+jpeg quality,75,zxing-cpp,12,12,0
+jpeg quality,75,ZXing (Java),12,0,0
+jpeg quality,75,libdmtx,12,12,0
+jpeg quality,75,"dmr, Settings::single()",12,12,0
+jpeg quality,50,dmr (ours),12,12,0
+jpeg quality,50,zxing-cpp,12,12,0
+jpeg quality,50,ZXing (Java),12,0,0
+jpeg quality,50,libdmtx,12,12,0
+jpeg quality,50,"dmr, Settings::single()",12,12,0
+jpeg quality,30,dmr (ours),12,12,0
+jpeg quality,30,zxing-cpp,12,11,0
+jpeg quality,30,ZXing (Java),12,1,0
+jpeg quality,30,libdmtx,12,12,0
+jpeg quality,30,"dmr, Settings::single()",12,12,0
+jpeg quality,20,dmr (ours),12,12,0
+jpeg quality,20,zxing-cpp,12,11,0
+jpeg quality,20,ZXing (Java),12,1,0
+jpeg quality,20,libdmtx,12,12,0
+jpeg quality,20,"dmr, Settings::single()",12,12,0
+jpeg quality,10,dmr (ours),12,12,0
+jpeg quality,10,zxing-cpp,12,11,0
+jpeg quality,10,ZXing (Java),12,0,0
+jpeg quality,10,libdmtx,12,11,0
+jpeg quality,10,"dmr, Settings::single()",12,12,0
+jpeg quality,5,dmr (ours),12,12,0
+jpeg quality,5,zxing-cpp,12,12,0
+jpeg quality,5,ZXing (Java),12,1,0
+jpeg quality,5,libdmtx,12,9,0
+jpeg quality,5,"dmr, Settings::single()",12,12,0
+tilt deg,0,dmr (ours),12,12,0
+tilt deg,0,zxing-cpp,12,12,0
+tilt deg,0,ZXing (Java),12,1,0
+tilt deg,0,libdmtx,12,12,0
+tilt deg,0,"dmr, Settings::single()",12,12,0
+tilt deg,15,dmr (ours),12,12,0
+tilt deg,15,zxing-cpp,12,12,0
+tilt deg,15,ZXing (Java),12,2,0
+tilt deg,15,libdmtx,12,12,0
+tilt deg,15,"dmr, Settings::single()",12,12,0
+tilt deg,30,dmr (ours),12,12,0
+tilt deg,30,zxing-cpp,12,12,0
+tilt deg,30,ZXing (Java),12,0,0
+tilt deg,30,libdmtx,12,12,0
+tilt deg,30,"dmr, Settings::single()",12,12,0
+tilt deg,40,dmr (ours),12,12,0
+tilt deg,40,zxing-cpp,12,12,0
+tilt deg,40,ZXing (Java),12,2,0
+tilt deg,40,libdmtx,12,12,0
+tilt deg,40,"dmr, Settings::single()",12,12,0
+tilt deg,50,dmr (ours),12,12,0
+tilt deg,50,zxing-cpp,12,11,0
+tilt deg,50,ZXing (Java),12,0,0
+tilt deg,50,libdmtx,12,11,0
+tilt deg,50,"dmr, Settings::single()",12,12,0
+tilt deg,60,dmr (ours),12,12,0
+tilt deg,60,zxing-cpp,12,11,0
+tilt deg,60,ZXing (Java),12,0,0
+tilt deg,60,libdmtx,12,8,0
+tilt deg,60,"dmr, Settings::single()",12,12,0
+tilt deg,70,dmr (ours),12,4,0
+tilt deg,70,zxing-cpp,12,1,0
+tilt deg,70,ZXing (Java),12,0,0
+tilt deg,70,libdmtx,12,2,0
+tilt deg,70,"dmr, Settings::single()",12,4,0
+dot gain,-0.55,dmr (ours),12,12,0
+dot gain,-0.55,zxing-cpp,12,9,0
+dot gain,-0.55,ZXing (Java),12,0,0
+dot gain,-0.55,libdmtx,12,0,0
+dot gain,-0.55,"dmr, Settings::single()",12,12,0
+dot gain,-0.45,dmr (ours),12,12,0
+dot gain,-0.45,zxing-cpp,12,10,0
+dot gain,-0.45,ZXing (Java),12,1,0
+dot gain,-0.45,libdmtx,12,2,0
+dot gain,-0.45,"dmr, Settings::single()",12,12,0
+dot gain,-0.3,dmr (ours),12,12,0
+dot gain,-0.3,zxing-cpp,12,12,0
+dot gain,-0.3,ZXing (Java),12,1,0
+dot gain,-0.3,libdmtx,12,12,0
+dot gain,-0.3,"dmr, Settings::single()",12,12,0
+dot gain,-0.15,dmr (ours),12,12,0
+dot gain,-0.15,zxing-cpp,12,12,0
+dot gain,-0.15,ZXing (Java),12,1,0
+dot gain,-0.15,libdmtx,12,12,0
+dot gain,-0.15,"dmr, Settings::single()",12,12,0
+dot gain,0,dmr (ours),12,12,0
+dot gain,0,zxing-cpp,12,12,0
+dot gain,0,ZXing (Java),12,1,0
+dot gain,0,libdmtx,12,12,0
+dot gain,0,"dmr, Settings::single()",12,12,0
+dot gain,0.15,dmr (ours),12,12,0
+dot gain,0.15,zxing-cpp,12,12,0
+dot gain,0.15,ZXing (Java),12,0,0
+dot gain,0.15,libdmtx,12,12,0
+dot gain,0.15,"dmr, Settings::single()",12,12,0
+dot gain,0.3,dmr (ours),12,12,0
+dot gain,0.3,zxing-cpp,12,12,0
+dot gain,0.3,ZXing (Java),12,1,0
+dot gain,0.3,libdmtx,12,12,0
+dot gain,0.3,"dmr, Settings::single()",12,12,0
+dot gain,0.45,dmr (ours),12,12,0
+dot gain,0.45,zxing-cpp,12,3,0
+dot gain,0.45,ZXing (Java),12,0,0
+dot gain,0.45,libdmtx,12,10,0
+dot gain,0.45,"dmr, Settings::single()",12,12,0
+dot gain,0.55,dmr (ours),12,12,0
+dot gain,0.55,zxing-cpp,12,1,0
+dot gain,0.55,ZXing (Java),12,0,0
+dot gain,0.55,libdmtx,12,6,0
+dot gain,0.55,"dmr, Settings::single()",12,12,0
+dot gain,0.7,dmr (ours),12,12,0
+dot gain,0.7,zxing-cpp,12,0,0
+dot gain,0.7,ZXing (Java),12,0,0
+dot gain,0.7,libdmtx,12,0,0
+dot gain,0.7,"dmr, Settings::single()",12,12,0
+damage share,0,dmr (ours),12,12,0
+damage share,0,zxing-cpp,12,11,0
+damage share,0,ZXing (Java),12,2,0
+damage share,0,libdmtx,12,12,0
+damage share,0,"dmr, Settings::single()",12,12,0
+damage share,0.05,dmr (ours),12,12,0
+damage share,0.05,zxing-cpp,12,12,0
+damage share,0.05,ZXing (Java),12,0,0
+damage share,0.05,libdmtx,12,11,0
+damage share,0.05,"dmr, Settings::single()",12,12,0
+damage share,0.1,dmr (ours),12,11,0
+damage share,0.1,zxing-cpp,12,7,0
+damage share,0.1,ZXing (Java),12,1,0
+damage share,0.1,libdmtx,12,7,0
+damage share,0.1,"dmr, Settings::single()",12,11,0
+damage share,0.15,dmr (ours),12,8,0
+damage share,0.15,zxing-cpp,12,2,0
+damage share,0.15,ZXing (Java),12,0,0
+damage share,0.15,libdmtx,12,0,0
+damage share,0.15,"dmr, Settings::single()",12,8,0
+damage share,0.2,dmr (ours),12,3,0
+damage share,0.2,zxing-cpp,12,0,0
+damage share,0.2,ZXing (Java),12,0,0
+damage share,0.2,libdmtx,12,0,0
+damage share,0.2,"dmr, Settings::single()",12,3,0
+damage share,0.25,dmr (ours),12,0,0
+damage share,0.25,zxing-cpp,12,0,0
+damage share,0.25,ZXing (Java),12,0,0
+damage share,0.25,libdmtx,12,0,0
+damage share,0.25,"dmr, Settings::single()",12,0,0
+damage share,0.3,dmr (ours),12,0,0
+damage share,0.3,zxing-cpp,12,0,0
+damage share,0.3,ZXing (Java),12,0,0
+damage share,0.3,libdmtx,12,0,0
+damage share,0.3,"dmr, Settings::single()",12,0,0
+"damage share, no padding",0,dmr (ours),12,12,0
+"damage share, no padding",0,zxing-cpp,12,12,0
+"damage share, no padding",0,ZXing (Java),12,1,0
+"damage share, no padding",0,libdmtx,12,12,0
+"damage share, no padding",0,"dmr, Settings::single()",12,12,0
+"damage share, no padding",0.03,dmr (ours),12,12,0
+"damage share, no padding",0.03,zxing-cpp,12,12,0
+"damage share, no padding",0.03,ZXing (Java),12,0,0
+"damage share, no padding",0.03,libdmtx,12,12,0
+"damage share, no padding",0.03,"dmr, Settings::single()",12,12,0
+"damage share, no padding",0.05,dmr (ours),12,12,0
+"damage share, no padding",0.05,zxing-cpp,12,11,0
+"damage share, no padding",0.05,ZXing (Java),12,1,0
+"damage share, no padding",0.05,libdmtx,12,12,0
+"damage share, no padding",0.05,"dmr, Settings::single()",12,12,0
+"damage share, no padding",0.1,dmr (ours),12,3,0
+"damage share, no padding",0.1,zxing-cpp,12,6,0
+"damage share, no padding",0.1,ZXing (Java),12,0,0
+"damage share, no padding",0.1,libdmtx,12,6,0
+"damage share, no padding",0.1,"dmr, Settings::single()",12,3,0
+cylinder bend deg,0,dmr (ours),12,12,0
+cylinder bend deg,0,zxing-cpp,12,12,0
+cylinder bend deg,0,ZXing (Java),12,1,0
+cylinder bend deg,0,libdmtx,12,12,0
+cylinder bend deg,0,"dmr, Settings::single()",12,12,0
+cylinder bend deg,30,dmr (ours),12,12,0
+cylinder bend deg,30,zxing-cpp,12,12,0
+cylinder bend deg,30,ZXing (Java),12,0,0
+cylinder bend deg,30,libdmtx,12,12,0
+cylinder bend deg,30,"dmr, Settings::single()",12,12,0
+cylinder bend deg,60,dmr (ours),12,12,0
+cylinder bend deg,60,zxing-cpp,12,12,0
+cylinder bend deg,60,ZXing (Java),12,0,0
+cylinder bend deg,60,libdmtx,12,12,0
+cylinder bend deg,60,"dmr, Settings::single()",12,12,0
+cylinder bend deg,90,dmr (ours),12,12,0
+cylinder bend deg,90,zxing-cpp,12,11,0
+cylinder bend deg,90,ZXing (Java),12,0,0
+cylinder bend deg,90,libdmtx,12,8,0
+cylinder bend deg,90,"dmr, Settings::single()",12,12,0
+cylinder bend deg,120,dmr (ours),12,12,0
+cylinder bend deg,120,zxing-cpp,12,12,0
+cylinder bend deg,120,ZXing (Java),12,0,0
+cylinder bend deg,120,libdmtx,12,7,0
+cylinder bend deg,120,"dmr, Settings::single()",12,12,0
+cylinder bend deg,150,dmr (ours),12,12,0
+cylinder bend deg,150,zxing-cpp,12,12,0
+cylinder bend deg,150,ZXing (Java),12,0,0
+cylinder bend deg,150,libdmtx,12,4,0
+cylinder bend deg,150,"dmr, Settings::single()",12,12,0
+cylinder bend deg,180,dmr (ours),12,12,0
+cylinder bend deg,180,zxing-cpp,12,8,0
+cylinder bend deg,180,ZXing (Java),12,0,0
+cylinder bend deg,180,libdmtx,12,0,0
+cylinder bend deg,180,"dmr, Settings::single()",12,12,0
+wave modules,0,dmr (ours),12,12,0
+wave modules,0,zxing-cpp,12,12,0
+wave modules,0,ZXing (Java),12,1,0
+wave modules,0,libdmtx,12,12,0
+wave modules,0,"dmr, Settings::single()",12,12,0
+wave modules,0.25,dmr (ours),12,12,0
+wave modules,0.25,zxing-cpp,12,11,0
+wave modules,0.25,ZXing (Java),12,0,0
+wave modules,0.25,libdmtx,12,10,0
+wave modules,0.25,"dmr, Settings::single()",12,12,0
+wave modules,0.5,dmr (ours),12,12,0
+wave modules,0.5,zxing-cpp,12,1,0
+wave modules,0.5,ZXing (Java),12,0,0
+wave modules,0.5,libdmtx,12,0,0
+wave modules,0.5,"dmr, Settings::single()",12,12,0
+wave modules,0.75,dmr (ours),12,3,0
+wave modules,0.75,zxing-cpp,12,0,0
+wave modules,0.75,ZXing (Java),12,0,0
+wave modules,0.75,libdmtx,12,0,0
+wave modules,0.75,"dmr, Settings::single()",12,3,0
+wave modules,1.0,dmr (ours),12,0,0
+wave modules,1.0,zxing-cpp,12,0,0
+wave modules,1.0,ZXing (Java),12,0,0
+wave modules,1.0,libdmtx,12,0,0
+wave modules,1.0,"dmr, Settings::single()",12,0,0
+wave modules,1.5,dmr (ours),12,0,0
+wave modules,1.5,zxing-cpp,12,0,0
+wave modules,1.5,ZXing (Java),12,0,0
+wave modules,1.5,libdmtx,12,0,0
+wave modules,1.5,"dmr, Settings::single()",12,0,0
+crumpled paper modules,0,dmr (ours),12,12,0
+crumpled paper modules,0,zxing-cpp,12,11,0
+crumpled paper modules,0,ZXing (Java),12,1,0
+crumpled paper modules,0,libdmtx,12,12,0
+crumpled paper modules,0,"dmr, Settings::single()",12,12,0
+crumpled paper modules,0.15,dmr (ours),12,12,0
+crumpled paper modules,0.15,zxing-cpp,12,12,0
+crumpled paper modules,0.15,ZXing (Java),12,0,0
+crumpled paper modules,0.15,libdmtx,12,10,0
+crumpled paper modules,0.15,"dmr, Settings::single()",12,12,0
+crumpled paper modules,0.3,dmr (ours),12,8,0
+crumpled paper modules,0.3,zxing-cpp,12,3,0
+crumpled paper modules,0.3,ZXing (Java),12,0,0
+crumpled paper modules,0.3,libdmtx,12,1,0
+crumpled paper modules,0.3,"dmr, Settings::single()",12,8,0
+crumpled paper modules,0.45,dmr (ours),12,0,0
+crumpled paper modules,0.45,zxing-cpp,12,0,0
+crumpled paper modules,0.45,ZXing (Java),12,0,0
+crumpled paper modules,0.45,libdmtx,12,0,0
+crumpled paper modules,0.45,"dmr, Settings::single()",12,1,0
+crumpled paper modules,0.6,dmr (ours),12,0,0
+crumpled paper modules,0.6,zxing-cpp,12,0,0
+crumpled paper modules,0.6,ZXing (Java),12,0,0
+crumpled paper modules,0.6,libdmtx,12,0,0
+crumpled paper modules,0.6,"dmr, Settings::single()",12,0,0
+crumpled paper modules,0.8,dmr (ours),12,0,0
+crumpled paper modules,0.8,zxing-cpp,12,0,0
+crumpled paper modules,0.8,ZXing (Java),12,0,0
+crumpled paper modules,0.8,libdmtx,12,0,0
+crumpled paper modules,0.8,"dmr, Settings::single()",12,0,0
+plastic bag modules,0,dmr (ours),12,12,0
+plastic bag modules,0,zxing-cpp,12,12,0
+plastic bag modules,0,ZXing (Java),12,0,0
+plastic bag modules,0,libdmtx,12,12,0
+plastic bag modules,0,"dmr, Settings::single()",12,12,0
+plastic bag modules,0.25,dmr (ours),12,12,0
+plastic bag modules,0.25,zxing-cpp,12,11,0
+plastic bag modules,0.25,ZXing (Java),12,2,0
+plastic bag modules,0.25,libdmtx,12,12,0
+plastic bag modules,0.25,"dmr, Settings::single()",12,12,0
+plastic bag modules,0.5,dmr (ours),12,10,0
+plastic bag modules,0.5,zxing-cpp,12,6,0
+plastic bag modules,0.5,ZXing (Java),12,0,0
+plastic bag modules,0.5,libdmtx,12,5,0
+plastic bag modules,0.5,"dmr, Settings::single()",12,10,0
+plastic bag modules,0.75,dmr (ours),12,2,0
+plastic bag modules,0.75,zxing-cpp,12,2,0
+plastic bag modules,0.75,ZXing (Java),12,0,0
+plastic bag modules,0.75,libdmtx,12,1,0
+plastic bag modules,0.75,"dmr, Settings::single()",12,2,0
+plastic bag modules,1.0,dmr (ours),12,6,0
+plastic bag modules,1.0,zxing-cpp,12,1,0
+plastic bag modules,1.0,ZXing (Java),12,0,0
+plastic bag modules,1.0,libdmtx,12,1,0
+plastic bag modules,1.0,"dmr, Settings::single()",12,6,0
+inverted (light on dark),0,dmr (ours),12,12,0
+inverted (light on dark),0,zxing-cpp,12,12,0
+inverted (light on dark),0,ZXing (Java),12,1,0
+inverted (light on dark),0,libdmtx,12,12,0
+inverted (light on dark),0,"dmr, Settings::single()",12,12,0
+inverted (light on dark),1,dmr (ours),12,12,0
+inverted (light on dark),1,zxing-cpp,12,12,0
+inverted (light on dark),1,ZXing (Java),12,1,0
+inverted (light on dark),1,libdmtx,12,12,0
+inverted (light on dark),1,"dmr, Settings::single()",12,12,0
