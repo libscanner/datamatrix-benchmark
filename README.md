@@ -8,6 +8,9 @@ rotation, blur, tilt, damage, curved and crumpled labels. Every frame, the
 expected string of every frame, the generator and the measurement programs are
 published here, so every number below can be checked and extended.
 
+The write-up of this comparison (in Russian) — on Habr:
+[«Читаем DataMatrix с конвейера: открытое сравнение четырёх библиотек на 1368 синтетических кадрах»](https://habr.com/ru/articles/1096110/).
+
 | reader | version |
 |---|---|
 | dmr — [DataMatrix Reader](https://github.com/libscanner/datamatrix-reader) (ours) | 1.0.7 |
